@@ -1,0 +1,12 @@
+services:
+  convex:
+    project: PackingList
+  vercel:
+    project: PackingList
+  stripe:
+    mode: live
+  nvidia:
+    api: nvidia-nims
+  github:
+    owner: mxn2020
+    repo: packinglist
