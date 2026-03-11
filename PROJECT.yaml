@@ -1,16 +1,18 @@
-id: 91f13022-8ee0-4311-9cae-f052d4b6eea3
 name: packinglist
-description: "Smart travel assistant with categorized packing lists"
+project_scope: main
+project_type: standalone
+description: Smart travel assistant with categorized packing lists
 tier: prototype
 lane: side-projects
 priority: low
-category: text
-focus: false
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/packinglist
+repo: "https://github.com/mxn2020/packinglist"
 deploy_url: null
 last_active: 2026-03-02
-tags: [ai, convex]
-notes:
+tags: [ai, convex, packing, travel, lists, organization, trip]
+notes: null
+category: webapp
+focus: false
+open_tasks: 0
+id: 91f13022-8ee0-4311-9cae-f052d4b6eea3
